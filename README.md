@@ -1,4 +1,5 @@
 # ProbabilityVariable
+![alt text](https://www.mentalconstruction.com/wp-content/uploads/2017/07/probability-line.gif)
 # Usage
 ```C#
   PosibilityController posibilityController = new PosibilityController(10);
